@@ -19,4 +19,5 @@ public class Uniform {
     private static double uniform(double a, double b) {
         return a + Math.random() * (b - a);
     }
+
 }

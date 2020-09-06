@@ -14,4 +14,4 @@
 - [计算平方根(牛顿迭代法)](https://github.com/houwanle/algs4/blob/master/src/chapter1/Sqrt.java)
 - [计算直角三角形的斜边长](https://github.com/houwanle/algs4/blob/master/src/chapter1/Hypotenuse.java)
 - [计算调和级数](https://github.com/houwanle/algs4/blob/master/src/chapter1/H.java)
-- [随机返回a,b之间的一个double值](https://github.com/houwanle/algs4/blob/master/src/chapter1/Uniform.java)
+- [随机返回a,b之间的一个double值](https://github.com/houwanle/algs4/blob/master/src/chapter1/Uniform.java) 
