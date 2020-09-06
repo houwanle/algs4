@@ -13,7 +13,7 @@ public class MatrixMultiplication {
     public static void main(String[] args) {
         double a[][] = {{1,2},{3,4}};
         double b[][] = {{1,1},{2,2}};
-        double c[][] = MatrixMultiplication(a, b);
+        double c[][] = matrixMultiplication(a, b);
         for (int i = 0; i < c.length; i++) {
             for (int j = 0; j < c.length; j++) {
                 System.out.print(c[i][j] + " ");
@@ -22,7 +22,7 @@ public class MatrixMultiplication {
         }
     }
 
-    public static double[][] MatrixMultiplication (double a[][], double b[][]) {
+    public static double[][] matrixMultiplication (double a[][], double b[][]) {
         int n = a.length;
         double c[][] = new double[n][n];
         for (int i = 0; i < n; i++) {

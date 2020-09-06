@@ -12,10 +12,10 @@ public class AbsoluteValue {
 
     public static void main(String[] args) {
         double num = -66.2;
-        System.out.println(AbsoluteValue(num));
+        System.out.println(absoluteValue(num));
     }
 
-    public static double AbsoluteValue(double num) {
+    public static double absoluteValue(double num) {
         if (num < 0) {
             return -num;
         } else {
