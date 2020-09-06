@@ -9,3 +9,4 @@
 - [复制数组](https://github.com/houwanle/algs4/blob/master/src/chapter1/CopyArray.java)
 - [颠倒数组元素的顺序](https://github.com/houwanle/algs4/blob/master/src/chapter1/ReverseOrderOfArray.java)
 - [矩阵相乘（方阵）](https://github.com/houwanle/algs4/blob/master/src/chapter1/MatrixMultiplication.java)
+- [绝对值函数](https://github.com/houwanle/algs4/blob/master/src/chapter1/AbsoluteValue.java)
