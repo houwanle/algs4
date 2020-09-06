@@ -12,3 +12,4 @@
 - [绝对值函数](https://github.com/houwanle/algs4/blob/master/src/chapter1/AbsoluteValue.java)
 - [判断一个数是否为素数](https://github.com/houwanle/algs4/blob/master/src/chapter1/IsPrime.java)
 - [计算平方根(牛顿迭代法)](https://github.com/houwanle/algs4/blob/master/src/chapter1/Sqrt.java)
+- [计算直角三角形的斜边长](https://github.com/houwanle/algs4/blob/master/src/chapter1/Hypotenuse.java)
