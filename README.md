@@ -16,3 +16,4 @@
 - [计算调和级数](https://github.com/houwanle/algs4/blob/master/src/chapter1/H.java)
 - [随机返回a,b(包含a，不包含b)之间的一个double值](https://github.com/houwanle/algs4/blob/master/src/chapter1/Uniform.java) 
 - [随机返回0,N(包含0，不包含N)之间的一个int值](https://github.com/houwanle/algs4/blob/master/src/chapter1/Uniform1.java)
+
