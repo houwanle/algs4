@@ -17,4 +17,5 @@
 - [随机返回a,b(包含a，不包含b)之间的一个double值](https://github.com/houwanle/algs4/blob/master/src/chapter1/Uniform.java) 
 - [随机返回0,N(包含0，不包含N)之间的一个int值](https://github.com/houwanle/algs4/blob/master/src/chapter1/Uniform1.java)
 - [随机返回lo, hi(包含lo，不包含hi)之间的一个int值](https://github.com/houwanle/algs4/blob/master/src/chapter1/Uniform2.java)
+- [根据离散概率随机返回的int值（出现i的概率为a[i])](https://github.com/houwanle/algs4/blob/master/src/chapter1/Discrete.java)
 
