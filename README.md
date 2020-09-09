@@ -19,4 +19,5 @@
 - [随机返回lo, hi(包含lo，不包含hi)之间的一个int值](https://github.com/houwanle/algs4/blob/master/src/chapter1/Uniform2.java)
 - [根据离散概率随机返回的int值（出现i的概率为a[i])](https://github.com/houwanle/algs4/blob/master/src/chapter1/Discrete.java)
 - [随机将double数组中的元素排序](https://github.com/houwanle/algs4/blob/master/src/chapter1/Shuffle.java)
+- [输出格式化](https://github.com/houwanle/algs4/blob/master/src/chapter1/RandomSeq.java)
 
