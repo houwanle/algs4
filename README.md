@@ -22,5 +22,5 @@
 - [输出格式化](https://github.com/houwanle/algs4/blob/master/src/chapter1/RandomSeq.java)
 
 #### 练习题
-- [1.1](./chapter1/exercise/Test1_1.java)
+- [1.1](./src/chapter1/exercise/Test1_1.java)
 
