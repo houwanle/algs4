@@ -24,7 +24,29 @@ public class Test1_1 {
 //        test9();  //第八题
 //        test10();  //第九题
 //        test11();  //第十一题
-        test12();  //第十二题
+//        test12();  //第十二题
+        test13();  // 第十三题
+    }
+
+    /** 矩阵转置 */
+    private static void test13(){
+        int a[][] = {{1,2,3,4},{5,7,8,9},{3,2,1,0}};
+        int b[][] = new int[4][3];
+        System.out.println("矩阵转置前为：");
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 4; j++) {
+                b[j][i] = a[i][j];
+                System.out.print(a[i][j] + " ");
+            }
+            System.out.println();
+        }
+        System.out.println("矩阵转置后为：");
+        for (int i = 0; i < 4; i++) {
+            for (int j = 0; j < 3; j++) {
+                System.out.print(b[i][j] + " ");
+            }
+            System.out.println();
+        }
 
     }
 
