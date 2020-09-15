@@ -25,7 +25,20 @@ public class Test1_1 {
 //        test10();  //第九题
 //        test11();  //第十一题
 //        test12();  //第十二题
-        test13();  // 第十三题
+//        test13();  // 第十三题
+        test14();  // 第十四题
+
+    }
+
+    /** 接受一个整型参数N，返回不大于log2N的最大整数，不用Math库 */
+    private static void test14(){
+        int N = 17;
+        int count = 0;
+        while(N != 1) {
+            N = N / 2;
+            count++;
+        }
+        System.out.println(count);
     }
 
     /** 矩阵转置 */
